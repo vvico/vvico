@@ -1,6 +1,6 @@
 # 👨‍💻 Víctor Manuel Vico Sánchez 
 
-**🌟 Senior Developer & Analyst**  
+### *🌟 Senior Developer & Analyst* 
 Con más de 10 años de experiencia construyendo aplicaciones web, me especializo en liderar proyectos innovadores, diseñar soluciones escalables y trabajar con equipos ágiles. Mi enfoque está en la eficiencia, la calidad del código y el uso de tecnologías modernas para resolver problemas complejos.
 
 ## 🚀 Tecnologías y Herramientas
