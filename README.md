@@ -15,29 +15,15 @@ Con más de 10 años de experiencia construyendo aplicaciones web, me especializ
 
 ## 💼 Experiencia profesional
 
-### 🔷 **Indra** | *Analista Programador Java con Angular*  
-**Noviembre 2022 – Actualmente**  
-- 📈 lidero el desarrollo de una aplicación web compleja para un cliente del sector público. Este proyecto abarca desde la arquitectura de microservicios hasta la implementación para tablets, asegurando la entrega de soluciones robustas y eficientes. Mi rol incluye liderar equipos, toma de requisitos y asegurar que las metodologías ágiles, como **Scrum**, sean aplicadas correctamente para cumplir con los plazos y estándares de calidad.
+💡 Comencé mi carrera como desarrollador trabajando en el sector bancario, donde tuve la oportunidad de especializarme en backend. Aquí, adquirí una sólida base en la gestión de bases de datos **Oracle** y desarrollé habilidades para depurar y probar código de manera eficiente.
 
-### 🔷 **Proxya** | *Analista Programador Java con Angular*  
-**Marzo 2022 – Noviembre 2022**  
-- 💻 Fui Analista en el desarrollo de una aplicación web y Android para el sector público. Aquí lideré un pequeño equipo de desarrollo y utilicé tecnologías avanzadas como **Spring Boot** y **Angular**. Este rol me exigió una integración completa de **Scrum** y la gestión de todo el ciclo de vida del proyecto, desde la planificación hasta la implementación.
+📈 A medida que evolucioné, pasé a liderar equipos de desarrollo en proyectos web para el sector público, utilizando **Spring Boot** y **Angular**. Mi enfoque en esta etapa fue asegurar la entrega de soluciones robustas, aplicando metodologías ágiles como **Scrum** para gestionar equipos y garantizar la calidad en cada fase del proyecto. En este período, también comencé a trabajar con arquitecturas basadas en microservicios, lo que me permitió optimizar la escalabilidad y el rendimiento de las aplicaciones.
 
-### 🔷 **Indra** | *Analista Programador Java/COBOL*  
-**Enero 2019 – Marzo 2022**  
-- 📊 Como Analista Programador, supervisé proyectos del sector bancario, donde combiné el uso de **Java** y **COBOL** en un entorno crítico. Esta etapa me permitió gestionar equipos más pequeños, optimizar el desarrollo y garantizar la alineación con los objetivos del cliente.
-
-### 🔷 **NTT** | *Analista Programador Java*  
-**Abril 2018 – Enero 2019**  
-- 💡 Desarrollé aplicaciones web para el sector público. Durante este tiempo, perfeccioné mis habilidades en **Spring Framework** y **Java 8**, y adopté un enfoque riguroso en las pruebas y la calidad del código. Cada proyecto que lideré aseguraba entregas sólidas y alineadas con los objetivos del negocio.
-
-### 🔷 **ViewNext** | *Programador Java/COBOL*  
-**Octubre 2014 – Abril 2018**  
-- 🏦 Desarrollé aplicaciones en el sector bancario, principalmente con **Java**, **COBOL** y **PL/SQL**. Esta experiencia me permitió profundizar en las tecnologías de backend y gestionar bases de datos **Oracle**.
+📊 En los últimos años, me he especializado en el liderazgo de proyectos complejos, incluyendo aplicaciones web y móviles. Mi experiencia más reciente se ha centrado en desarrollar aplicaciones para el sector público, integrando soluciones tanto para la web como para dispositivos móviles. En cada proyecto, he aplicado un enfoque de mejora continua, asegurando entregas eficientes y de alta calidad.
 
 ## 🎓 Educación
 - **Ingeniería Técnica en Informática de Gestión**  
-  🏛️*Universidad de Almería*  
+  🏛️*Universidad de Almería*
 
 ---
 
